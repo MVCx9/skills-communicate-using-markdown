@@ -8,3 +8,15 @@
 
 ## Vamos a añadir una fotillo!!!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Vamos a añadir codigo
+
+### cosas de git
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### codigo javascript
+``` javascript
+var myVar = "Hello, world!";
+```
